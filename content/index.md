@@ -59,7 +59,7 @@
 * [ ] [moretypes/function-closures.go](moretypes/function-closures.go)
 * [ ] [moretypes/exercise-fibonacci-closure.go](moretypes/exercise-fibonacci-closure.go)
 
-## methods && interface
+## methods & interface
 * [ ] [methods/methods.go](methods/methods.go)
 * [ ] [methods/methods-funcs.go](methods/methods-funcs.go)
 * [ ] [methods/methods-continued.go](methods/methods-continued.go)
