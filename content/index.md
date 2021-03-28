@@ -1,3 +1,11 @@
+# Go Tour
+
+## 计划
+* 每个大段做一个视频
+* 大段里的每一项处理方式
+  * 暂停 -> 看 -> 录 -> 暂停...
+
+
 ## basics
 * [ ] [basics/packages.go](basics/packages.go)
 * [ ] [basics/imports.go](basics/imports.go)
